@@ -1,0 +1,22 @@
+.footer-container {
+  background-color: #2d1f32;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 5vw 5vw;
+}
+
+.foot-right {
+  display: flex;
+  text-align: left;
+  color: gray;
+}
+
+.foot-left {
+  text-align: left;
+  color: gray;
+}
+
+.foot-head {
+  color: white;
+}
